@@ -27,4 +27,5 @@ update const wordpressUrl = 'your-domain' in file 'src/Items.js' with your curre
 
 ## Run
 npm install
+
 npm start
