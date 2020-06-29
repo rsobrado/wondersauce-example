@@ -1,6 +1,6 @@
 # wondersauce - assessment 
 
-###For this the full stack developer test, please:
+### For this the full stack developer test, please:
 
 Server Side:
 Create a new Wordpress instance and add a custom plugin that exposes an API endpoint like:
@@ -20,9 +20,9 @@ Front end side:
 Build a React front end that consumes the above API endpoint and renders the results in a grid
 layout with cards that render the properties of each item.
 
-##Install
+## Install
 Install /plugins/wondersauce-example.zip in your wordpress (site)
 
-##Run
+## Run
 npm install
 npm start
