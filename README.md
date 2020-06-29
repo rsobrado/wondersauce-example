@@ -23,6 +23,9 @@ layout with cards that render the properties of each item.
 ## Install
 Install /plugins/wondersauce-example.zip in your wordpress (site)
 
+## Config
+update const wordpressUrl = 'your-domain' in file 'src/Items.js' with your current wordpress url
+
 ## Run
 npm install
 npm start
