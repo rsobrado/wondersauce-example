@@ -15,7 +15,6 @@ Image: “”
 },
 ...]
 
-
 Front end side:
 Build a React front end that consumes the above API endpoint and renders the results in a grid
 layout with cards that render the properties of each item.
